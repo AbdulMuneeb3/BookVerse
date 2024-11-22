@@ -2,7 +2,7 @@
 
 BookVerse is a modern book review platform built with React, TypeScript, and Tailwind CSS. It provides a beautiful, responsive interface for discovering books, reading reviews, and sharing your thoughts with other readers.
 
-![BookVerse Screenshot](https://images.unsplash.com/photo-1544947950-fa07a98d237f?auto=format&fit=crop&q=80&w=1200)
+![BookVerse Screenshot](./image.png)
 
 ## Features
 
